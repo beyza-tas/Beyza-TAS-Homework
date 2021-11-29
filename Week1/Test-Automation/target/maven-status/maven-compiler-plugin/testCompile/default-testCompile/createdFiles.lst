@@ -1,0 +1,7 @@
+test/CategoryScenarioTest.class
+factory/DriverFactory.class
+page/CategoryScenarioPage.class
+base/BasePage.class
+base/BaseTest.class
+page/BasketScenarioPage.class
+test/BasketScenarioTest.class
